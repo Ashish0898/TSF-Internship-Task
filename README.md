@@ -11,7 +11,7 @@ This repository consist of the tasks given during my internship at The Sparks Fo
 
 Their Vision Statement : A world of enabled and connected little minds, building future. Our Mission Statement To inspire students, help them innovate and let them integrate to build the next generation humankind.
 
-# TASKS
+# TASK
 
 ## Task 1 - Exploring Supervised Machine Learning
 
